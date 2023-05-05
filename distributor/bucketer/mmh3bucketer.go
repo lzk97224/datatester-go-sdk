@@ -6,8 +6,8 @@
 package bucketer
 
 import (
+	"github.com/lzk97224/datatester-go-sdk/log"
 	"github.com/twmb/murmur3"
-	"github.com/volcengine/datatester-go-sdk/log"
 )
 
 const (

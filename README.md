@@ -13,7 +13,7 @@ Obtain your project's App Key:
 
 ## Install the SDK
 ```
-go get github.com/volcengine/datatester-go-sdk@v1.0.4
+go get github.com/lzk97224/datatester-go-sdk@v1.0.4
 ```
 
 ## Using the SDK
@@ -22,8 +22,8 @@ The following is a code example of using the Go SDK.
 package main
 
 import (
-	"github.com/volcengine/datatester-go-sdk/client"
-	"github.com/volcengine/datatester-go-sdk/config"
+	"github.com/lzk97224/datatester-go-sdk/client"
+	"github.com/lzk97224/datatester-go-sdk/config"
 )
 
 func main() {
@@ -345,7 +345,7 @@ DataTester GO SDK
 
 ## 安装SDK
 ```
-go get github.com/volcengine/datatester-go-sdk@v1.0.4
+go get github.com/lzk97224/datatester-go-sdk@v1.0.4
 ```
 
 ## 代码示例
@@ -353,8 +353,8 @@ go get github.com/volcengine/datatester-go-sdk@v1.0.4
 package main
 
 import (
-	"github.com/volcengine/datatester-go-sdk/client"
-	"github.com/volcengine/datatester-go-sdk/config"
+	"github.com/lzk97224/datatester-go-sdk/client"
+	"github.com/lzk97224/datatester-go-sdk/config"
 )
 
 func main() {

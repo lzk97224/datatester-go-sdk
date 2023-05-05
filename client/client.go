@@ -8,13 +8,13 @@ package client
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/volcengine/datatester-go-sdk/config"
-	"github.com/volcengine/datatester-go-sdk/distributor"
-	"github.com/volcengine/datatester-go-sdk/entities"
-	"github.com/volcengine/datatester-go-sdk/event"
-	"github.com/volcengine/datatester-go-sdk/handler"
-	"github.com/volcengine/datatester-go-sdk/log"
-	"github.com/volcengine/datatester-go-sdk/meta/manager"
+	"github.com/lzk97224/datatester-go-sdk/config"
+	"github.com/lzk97224/datatester-go-sdk/distributor"
+	"github.com/lzk97224/datatester-go-sdk/entities"
+	"github.com/lzk97224/datatester-go-sdk/event"
+	"github.com/lzk97224/datatester-go-sdk/handler"
+	"github.com/lzk97224/datatester-go-sdk/log"
+	"github.com/lzk97224/datatester-go-sdk/meta/manager"
 )
 
 type AbClient struct {

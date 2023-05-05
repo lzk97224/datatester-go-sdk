@@ -6,10 +6,10 @@
 package config
 
 import (
-	"github.com/volcengine/datatester-go-sdk/event"
-	"github.com/volcengine/datatester-go-sdk/log"
-	"github.com/volcengine/datatester-go-sdk/meta/manager"
-	"github.com/volcengine/datatester-go-sdk/utils/httper"
+	"github.com/lzk97224/datatester-go-sdk/event"
+	"github.com/lzk97224/datatester-go-sdk/log"
+	"github.com/lzk97224/datatester-go-sdk/meta/manager"
+	"github.com/lzk97224/datatester-go-sdk/utils/httper"
 	"time"
 )
 

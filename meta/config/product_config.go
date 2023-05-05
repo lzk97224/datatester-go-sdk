@@ -8,7 +8,7 @@ package config
 import (
 	"errors"
 	"fmt"
-	et "github.com/volcengine/datatester-go-sdk/entities"
+	et "github.com/lzk97224/datatester-go-sdk/entities"
 )
 
 type ProductConfig struct {

@@ -8,9 +8,9 @@ package manager
 import (
 	"errors"
 	"fmt"
-	"github.com/volcengine/datatester-go-sdk/event"
-	"github.com/volcengine/datatester-go-sdk/log"
-	"github.com/volcengine/datatester-go-sdk/utils/httper"
+	"github.com/lzk97224/datatester-go-sdk/event"
+	"github.com/lzk97224/datatester-go-sdk/log"
+	"github.com/lzk97224/datatester-go-sdk/utils/httper"
 	"strconv"
 	"strings"
 	"time"

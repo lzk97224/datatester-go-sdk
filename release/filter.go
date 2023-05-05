@@ -5,7 +5,7 @@
 
 package release
 
-import "github.com/volcengine/datatester-go-sdk/release/cond"
+import "github.com/lzk97224/datatester-go-sdk/release/cond"
 
 type Filter struct {
 	Id            string                 `json:"id"`

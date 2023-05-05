@@ -8,8 +8,8 @@ package util
 import (
 	"fmt"
 	"github.com/golang/protobuf/proto"
-	"github.com/volcengine/datatester-go-sdk/consts"
-	"github.com/volcengine/datatester-go-sdk/event/model"
+	"github.com/lzk97224/datatester-go-sdk/consts"
+	"github.com/lzk97224/datatester-go-sdk/event/model"
 	"strconv"
 	"time"
 )

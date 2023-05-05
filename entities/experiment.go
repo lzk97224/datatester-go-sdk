@@ -6,13 +6,13 @@
 package entities
 
 import (
-	"github.com/volcengine/datatester-go-sdk/consts"
-	"github.com/volcengine/datatester-go-sdk/release"
+	"github.com/lzk97224/datatester-go-sdk/consts"
+	"github.com/lzk97224/datatester-go-sdk/release"
 )
 
 type Experiment struct {
 	Id                  string             `json:"id"`
-	Name                string             `json:"name"`
+	Name                string             `json:"raw_name"`
 	LayerID             string             `json:"layer_id"`
 	Status              int                `json:"status"`
 	Release             release.Release    `json:"release"`

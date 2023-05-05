@@ -7,10 +7,10 @@ package distributor
 
 import (
 	"fmt"
-	"github.com/volcengine/datatester-go-sdk/consts"
-	"github.com/volcengine/datatester-go-sdk/distributor/bucketer"
-	e "github.com/volcengine/datatester-go-sdk/entities"
-	"github.com/volcengine/datatester-go-sdk/meta/config"
+	"github.com/lzk97224/datatester-go-sdk/consts"
+	"github.com/lzk97224/datatester-go-sdk/distributor/bucketer"
+	e "github.com/lzk97224/datatester-go-sdk/entities"
+	"github.com/lzk97224/datatester-go-sdk/meta/config"
 	"strings"
 )
 

@@ -6,9 +6,9 @@
 package event
 
 import (
-	"github.com/volcengine/datatester-go-sdk/event/model"
-	"github.com/volcengine/datatester-go-sdk/event/util"
-	"github.com/volcengine/datatester-go-sdk/log"
+	"github.com/lzk97224/datatester-go-sdk/event/model"
+	"github.com/lzk97224/datatester-go-sdk/event/util"
+	"github.com/lzk97224/datatester-go-sdk/log"
 	"strconv"
 )
 

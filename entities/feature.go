@@ -6,7 +6,7 @@
 package entities
 
 import (
-	"github.com/volcengine/datatester-go-sdk/release"
+	"github.com/lzk97224/datatester-go-sdk/release"
 )
 
 type Feature struct {

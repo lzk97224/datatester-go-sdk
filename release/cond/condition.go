@@ -6,8 +6,8 @@
 package cond
 
 import (
-	"github.com/volcengine/datatester-go-sdk/consts"
-	"github.com/volcengine/datatester-go-sdk/log"
+	"github.com/lzk97224/datatester-go-sdk/consts"
+	"github.com/lzk97224/datatester-go-sdk/log"
 	"reflect"
 	"strconv"
 )

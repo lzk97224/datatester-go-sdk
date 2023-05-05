@@ -1,6 +1,6 @@
-module github.com/volcengine/datatester-go-sdk
+module github.com/lzk97224/datatester-go-sdk
 
-go 1.14
+go 1.18
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.0

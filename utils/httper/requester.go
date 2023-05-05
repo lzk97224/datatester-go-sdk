@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/volcengine/datatester-go-sdk/log"
+	"github.com/lzk97224/datatester-go-sdk/log"
 	"io"
 	"io/ioutil"
 	"net/http"

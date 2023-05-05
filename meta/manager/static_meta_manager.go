@@ -7,8 +7,8 @@ package manager
 
 import (
 	"encoding/json"
-	"github.com/volcengine/datatester-go-sdk/log"
-	"github.com/volcengine/datatester-go-sdk/meta/config"
+	"github.com/lzk97224/datatester-go-sdk/log"
+	"github.com/lzk97224/datatester-go-sdk/meta/config"
 )
 
 type StaticMetaManager struct {

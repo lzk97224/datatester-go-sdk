@@ -6,7 +6,7 @@
 package manager
 
 import (
-	"github.com/volcengine/datatester-go-sdk/meta/config"
+	"github.com/lzk97224/datatester-go-sdk/meta/config"
 )
 
 type MetaManager interface {

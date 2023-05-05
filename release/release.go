@@ -6,7 +6,7 @@
 package release
 
 import (
-	"github.com/volcengine/datatester-go-sdk/release/cond"
+	"github.com/lzk97224/datatester-go-sdk/release/cond"
 	"reflect"
 )
 
